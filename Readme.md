@@ -137,4 +137,4 @@ Indian-Cars-Data-Analysis/
 ## 👤 Author
 
 **Mehul Vishwakarma**
-(https://www.linkedin.com/in/mehul-vishwakarma-9a1b2431a/) · (https://github.com/MehulVi)
+[LinkedIn](https://www.linkedin.com/in/mehul-vishwakarma-9a1b2431a/) · [GitHub](https://github.com/MehulVi)
