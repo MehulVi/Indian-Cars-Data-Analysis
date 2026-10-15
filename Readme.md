@@ -91,7 +91,7 @@ The Indian car market has hundreds of models and variants across different price
 ![Total price by make](notebook/images/make_total_simple.png)
 
 ### Total Price and Variant Count by Make
-![Total price and count by make](\notebook/images/make_total_and_count.png)
+![Total price and count by make](notebook/images/make_total_and_count.png)
 
 ### Total Ex-Showroom Price by Category
 ![Total price by category](notebook/images/category_total_price.png)
