@@ -88,19 +88,19 @@ The Indian car market has hundreds of models and variants across different price
 ## Visualizations
 
 ### Total Ex-Showroom Price by Make
-![Total price by make](images\make_total_simple.png)
+![Total price by make](notebook\images\make_total_simple.png)
 
 ### Total Price and Variant Count by Make
-![Total price and count by make](images\make_total_and_count.png)
+![Total price and count by make](\notebook\images\make_total_and_count.png)
 
 ### Total Ex-Showroom Price by Category
-![Total price by category](images\category_total_price.png)
+![Total price by category](notebook\images\category_total_price.png)
 
 ### Variants by Make and Fuel Type
-![Fuel type heatmap](images\fuel_heatmap_table.png)
+![Fuel type heatmap](notebook\images\fuel_heatmap_table.png)
 
 ### Variants by Make and Transmission Type
-![Transmission heatmap](images\type_by_make.png)
+![Transmission heatmap](notebook\images\type_by_make.png)
 
 ## Project Structure
 
