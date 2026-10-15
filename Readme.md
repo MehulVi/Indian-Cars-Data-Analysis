@@ -91,16 +91,16 @@ The Indian car market has hundreds of models and variants across different price
 ![Total price by make](C:\Users\niraj\OneDrive\Desktop\python project\Indian cars datasets\notebook\images\make_total_simple.png)
 
 ### Total Price and Variant Count by Make
-![Total price and count by make](C:\Users\niraj\OneDrive\Desktop\python project\Indian cars datasets\notebook\images\make_total_and_count.png)
+![Total price and count by make](Indian cars datasets\notebook\images\make_total_and_count.png)
 
 ### Total Ex-Showroom Price by Category
-![Total price by category](C:\Users\niraj\OneDrive\Desktop\python project\Indian cars datasets\notebook\images\category_total_price.png)
+![Total price by category](Indian cars datasets\notebook\images\category_total_price.png)
 
 ### Variants by Make and Fuel Type
-![Fuel type heatmap](C:\Users\niraj\OneDrive\Desktop\python project\Indian cars datasets\notebook\images\fuel_heatmap_table.png)
+![Fuel type heatmap](Indian cars datasets\notebook\images\fuel_heatmap_table.png)
 
 ### Variants by Make and Transmission Type
-![Transmission heatmap](C:\Users\niraj\OneDrive\Desktop\python project\Indian cars datasets\notebook\images\type_by_make.png)
+![Transmission heatmap](Indian cars datasets\notebook\images\type_by_make.png)
 
 ## Project Structure
 
