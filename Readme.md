@@ -88,7 +88,7 @@ The Indian car market has hundreds of models and variants across different price
 ## Visualizations
 
 ### Total Ex-Showroom Price by Make
-![Total price by make](C:\Users\niraj\OneDrive\Desktop\python project\Indian cars datasets\notebook\images\make_total_simple.png)
+![Total price by make](notebook\images\make_total_simple.png)
 
 ### Total Price and Variant Count by Make
 ![Total price and count by make](notebook\images\make_total_and_count.png)
